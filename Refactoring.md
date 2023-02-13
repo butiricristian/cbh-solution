@@ -10,4 +10,6 @@ You will be graded on the exhaustiveness and quality of your unit tests, the dep
 
 ## Your Explanation Here
 
-I always like to handle simple edge cases at the beginning of the method to avoid unreadable deeply nested if branches. The functions extracted are easy to understand and they prefectly describe what is happening inside the main method.
+I always like to handle simple edge cases at the beginning of the method to avoid unreadable deeply nested if branches.
+The functions extracted are easy to understand and they prefectly describe what is happening inside the main method.
+I prefer real constants to be global
